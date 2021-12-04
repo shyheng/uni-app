@@ -1,0 +1,22 @@
+
+.content {
+	width: 100%;
+	height: auto;
+}
+.add {
+	background-color: #007AFF;
+	font-size: 30px;
+	font-family: "楷体";
+}
+.administrator {
+	background-color: #4CD964;
+	font-size: 30px;
+	font-family: "楷体";
+}
+.select {
+	background-color: #EAFAF1;
+}
+.card {
+	background-color: #D5F5E3;
+}
+

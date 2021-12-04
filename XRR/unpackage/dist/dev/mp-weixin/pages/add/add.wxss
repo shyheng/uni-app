@@ -1,0 +1,14 @@
+
+.textv{
+	margin-top: 20%;
+	background-color: #F0AD4E;
+	margin-left: 10%;
+}
+.gender{
+	margin-top: 20%;
+	margin-left: 20%;
+}
+.send{
+	margin-top: 20%;
+}
+

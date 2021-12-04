@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/add/add",
+    "pages/administrator/administrator",
+    "pages/details/details"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "欢迎哦",
+    "navigationBarBackgroundColor": "#ABEBC6",
+    "backgroundColor": "#ABEBC6",
+    "enablePullDownRefresh": true
+  },
+  "usingComponents": {}
+}
